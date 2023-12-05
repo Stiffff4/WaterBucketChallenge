@@ -1,0 +1,5 @@
+C:\Users\cudaz\OneDrive\Escritorio\Proyectos personales\WaterBucketChallenge\obj\Debug\net6.0\WaterBucketChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cudaz\OneDrive\Escritorio\Proyectos personales\WaterBucketChallenge\obj\Debug\net6.0\WaterBucketChallenge.AssemblyInfoInputs.cache
+C:\Users\cudaz\OneDrive\Escritorio\Proyectos personales\WaterBucketChallenge\obj\Debug\net6.0\WaterBucketChallenge.AssemblyInfo.cs
+C:\Users\cudaz\OneDrive\Escritorio\Proyectos personales\WaterBucketChallenge\obj\Debug\net6.0\WaterBucketChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cudaz\OneDrive\Escritorio\Proyectos personales\WaterBucketChallenge\obj\Debug\net6.0\WaterBucketChallenge.MvcApplicationPartsAssemblyInfo.cache
